@@ -1,34 +1,212 @@
 \documentclass[UTF8,12pt, a4paper, oneside]{ctexart}
-\usepackage{amsmath, amsthm, amssymb, bm, graphicx, hyperref, mathrsfs}
+\usepackage{verbatim,xcolor,amsmath, amsthm, amssymb, bm, graphicx, hyperref, mathrsfs}
 
 \title{\textbf{固体物理（一）作业}}
 \author{陆壮壮 U201810189}
 \date{\today}
 \linespread{1.5}
-\newcounter{problemname}
-\newenvironment{problem}{\stepcounter{problemname}\par\noindent\textbf{题目\arabic{problemname}. }}{\\\par}
-\newenvironment{solution}{\par\noindent\textbf{解答. }}{\\\par}
-\newenvironment{note}{\par\noindent\textbf{题目\arabic{problemname}的注记. }}{\\\par}
+\newcounter{problemname}[section]
+\newcommand{\problemi}[1]{\stepcounter{problemname}\color{black}\textbf{题目\arabic{problemname}. } #1 \\\par}
+\newcommand{\solutioni}[1]{\color{red}\textbf{解答\arabic{problemname}.} #1 \\\par}
+\newcommand{\problemii}[1]{\stepcounter{problemname}\color{black}\textbf{题目\arabic{problemname}. } #1 \\\par}
+\newcommand{\solutionii}[1]{\color{blue}\textbf{解答\arabic{problemname}.} #1 \\\par}
 
 \begin{document}
 
 \maketitle
-
+\begin{center}
+注:黑色字体为题目，红色为其解答；作业之外习题，蓝色为其解答.
+\end{center}
 \tableofcontents
 
 \section{第一章}
 
-\begin{problem}
-    这里是题目. 
-\end{problem}
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{试思考：为什么说电磁力应是引起原子凝聚的吸引力的来源？}
+        \solutioni{}
+    \end{minipage}
+}  
 
-\begin{solution}
-    这里是解答. 
-\end{solution}
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{试思考：如果说带电粒子间的库仑作用应是产生原子间相互作用力的物理根 
+        源，那不带电粒子靠什么力能吸引到一起？}
+        \solutioni{}
+    \end{minipage}
+} 
 
-\begin{note}
-    这里是注记. 
-\end{note}
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{试思考：在五种基本结合力中，自然界中哪种结合力最普遍？}
+        \solutioni{}
+    \end{minipage}
+} 
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{试思考：为什么金属键和离子键没有方向性而共价键和氢键有方向性？}
+        \solutioni{}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{试思考：$KBr$、$CCl_4$和$H_2S$分别属于何种类型的化合物？ }
+        \solutioni{}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{试思考：$BeH_2$、$BBr_3$和$SiH_4$三种化合物中原子有哪种可能的杂化类型？能预测出它们的几何构型吗？}
+        \solutioni{}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemii{考虑由正、负两种离子沿x和y轴方向周期性排布构成如图所示的二维离子 
+        固体，假设两个方向上的周期（相邻正、负离子间的间隔）均为a ，若只考 
+        虑边长为2a的正方格子中的正、负离子，试计算其马德隆常数的近似值。}
+        \solutionii{}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{假设一固体中原子间的相互作用能可表示为:$U(r)=-\dfrac{\alpha}{r^m}+\dfrac{\beta}{r^n}$,试计算:
+        （1）平衡间距 ;\\
+        （2）结合能W（单个原子的）;\\
+        （3）体弹性模量;\\
+        （4）若取$m=2,n=10,r_0=0.3nm,W=0.4eV $，则$\alpha$和$\beta$的值是多少?}
+        \solutioni{}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{设一固体平衡时体积为$V_0$, 原子间总的相互作用能为$U_0$, 如果原子间相互作用能由式$U(r)=-\dfrac{\alpha}{r^m}+\dfrac{\beta}{r^n}$所表述, 试证明体弹性模量为$\dfrac{nm|U_0|}{9V_0}$。}
+        \solutioni{}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{对由N个正、负离子构成的离子固体, 假设其结合能为\[U(r)=\dfrac{N}{2}(-\dfrac{\alpha e^2}{4\pi \varepsilon_0 r}+\dfrac{\beta}{r^n})\]
+        若以$ce^{-\dfrac{r}{\rho}}$来代替排斥项$\dfrac{\beta}{r_n}$, 当固体处于平衡时, 如果这两者对互作用势能的贡献相同, 试求$n$和$\rho$之间的关系。}
+        \solutioni{}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemii{针对金刚石、石墨、碳60、碳纳米管和石墨烯五种碳同素异构体, 虽然它 们均是由纯碳原子构成的, 试分析为什么彼此间性能却有非常大的差别?}
+        \solutionii{}
+    \end{minipage}
+}
+
+
 \section{第二章}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{试思考：最早的晶体是根据晶体具有鲜明宏观特征而发现的，但为什么说只 
+        有恒定不变的晶面间夹角才是反映晶体的固有特征？恒定不变的晶面间夹角和晶体的微观结构特征有何关系？}
+        \solutioni{通过特征夹角的测定，可以判断所及晶体属于何种类型的晶体，而由其它宏观特征则不能。}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{试思考：如何理解晶体、非晶体和准晶体？}
+        \solutioni{晶体既具有平移对称性又具有旋转对称性，准晶体只具有旋转对称性而不具有平移对称性，非晶体既不具有平移对称性又不具有旋转性。}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{试思考：从晶格几何结构特征上，能否将金刚石结构和闪锌矿结构划归为同 
+        一类结构？}
+        \solutioni{不能。}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{试思考：何谓布喇菲格子？布喇菲点阵中的格点如何进行表征？}
+        \solutioni{对由完全相同的一种原子周期性排布形成的单原子晶体，格点为原子平衡位置所在的几何点，这些格点在空间作周期性排布形成的格子称为布喇菲格子，也称简单格子。}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{试思考：由同种原子形成的金刚石结构的晶体，如金刚石、硅等，如何理解 
+        它们的晶格是复式格子而不是简单布喇菲格子？ }
+        \solutioni{金刚石、硅等结构虽然由同种原子组成，但立方体顶角和面心原子同立方体体内原子的共价键取向不同，因此，金刚石、硅等结构的晶格属于复式格子而不是简单格子。}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{试思考：如何理解空间点阵反映了晶体结构的几何特征？}
+        \solutioni{空间点阵是一种数学上的抽象，反映的是构成点阵的阵点在空间周期性排布 的几何特征，不具有任何实质性的物理内容。只有把基元放置于点阵的阵点位置上，才能形成具有特定晶体结构的晶体。可见，空间点阵和晶体结构，两者之间有密切的联系，但又是两个不同的概念，不能混淆。两者间的关系可概括为：点阵+基元=晶体结构。}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{试思考：如何理解晶体的破缺平移对称性？}
+        \solutioni{通常所讲的空间平移对称性是指，若一个量具有空间平移对称性，则这个量不依赖于空间坐标原点的选择，将整个空间平移任意一个位置矢量，这个量的大小和性质保持不变。但对晶格来说，晶格并不对任意的空间平移保持不变，而只对从一个格点位置平移到另一格点位置才能保证晶格的不变性，因此，晶格的平移对称性是一种破缺的平移对称性。}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{试思考: 如何理解晶体只有1,2,3,4和6的五个可能的旋转对称操作,而没有$n=5$以及$n>6$的旋转对称操作?}
+        \solutioni{尽管晶体的旋转操作是一种宏观操作，但要使得晶体在旋转操作后能自身重合，要求操作前后晶格点阵相同，而晶格是由格点的周期性排布而形成的，具有破缺的平移对称性，如下面的论证所看到的，这种破缺的平移对称性使得晶体不能在旋转任意角度下都能保证晶格点阵的不变，而只有在旋转为数不多的特定角度后晶格点阵才能保持不变，这和几何图形的正交变换大为不同。}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{对于六角密堆积结构, 试证明:$\dfrac{c}{a}=(\dfrac{8}{3})^{\dfrac{1}{2}}$,如果明显大于此值, 则可能发生何种现象?}
+        \solutioni{如果$\dfrac{c}{a}=(\dfrac{8}{3})^{\dfrac{1}{2}}$，则相应的晶体为六角结构，但不是六角密积结构，在这种情况下，沿垂直于密面方向密排面之间呈现松散结合的特征。}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{假定某种金属发生由体心立方结构到六角密堆积结构的结构相变, 若相变 时金属的密度维持不变且相变后六角密堆积结构相的$\dfrac{c}{a}$维持理想值, 试求相变后的晶格常数和相变前的晶格常数之间的关系。}
+        \solutioni{设相变前的晶格常数为$a_1$,相变后的晶格常数为$a_2、c_2$、；相变前后密度相同，\[ \dfrac{2}{a_1^3}=\dfrac{6}{3\sqrt{2}a_2^3}\]
+        \[ \dfrac{a_2^3}{a_1^3}=\dfrac{1}{\sqrt{2}}\]}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{将等体积的刚球分别排成简立方、体心立方、面心立方、六角密积和金刚石型的结构, 若以刚球体积与总体积之比表示晶体的致密度, 试针对不同的结构求晶体的致密度。}
+        \solutioni{简单立方：\[\rho=\dfrac{\pi}{6}\]
+        体心立方：\[\dfrac{\pi \sqrt{3}}{8}\]
+        面心立方：\[\dfrac{\pi \sqrt{2} }{6}\]
+        六角密积：\[\dfrac{\pi \sqrt{2} }{6}\]
+        金刚石型结构：\[\dfrac{\pi \sqrt{3} }{16}\]}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{对体心立方和面心立方结构的晶体, 其固体物理学原胞的习惯选取如图 2. 23 所示, 试证明: 对体心立方晶体其原胞三基矢间的夹角为$109^o27'$, 对面心立方晶体其原胞三基矢间的夹角为$60^o$。}
+        \solutioni{体心立方晶体固体物理学原胞相对应的三个基矢以及相应原胞的体积分别为：}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{}
+        \solutioni{}
+    \end{minipage}
+}
+
 \end{document}
    
