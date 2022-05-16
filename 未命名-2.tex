@@ -6,10 +6,10 @@
 \date{\today}
 \linespread{1.5}
 \newcounter{problemname}[section]
-\newcommand{\problemi}[1]{\stepcounter{problemname}\color{black}\textbf{题目\arabic{problemname}. } #1 \\\par}
-\newcommand{\solutioni}[1]{\color{red}\textbf{解答\arabic{problemname}.} #1 \\\par}
-\newcommand{\problemii}[1]{\stepcounter{problemname}\color{black}\textbf{题目\arabic{problemname}. } #1 \\\par}
-\newcommand{\solutionii}[1]{\color{blue}\textbf{解答\arabic{problemname}.} #1 \\\par}
+\newcommand{\problemi}[1]{\stepcounter{problemname}\color{black}\textbf{题目\arabic{problemname}. } #1 \newline}
+\newcommand{\solutioni}[1]{\color{red}\textbf{解答\arabic{problemname}.} #1 \newline}
+\newcommand{\problemii}[1]{\stepcounter{problemname}\color{black}\textbf{题目\arabic{problemname}. } #1 \newline}
+\newcommand{\solutionii}[1]{\color{blue}\textbf{解答\arabic{problemname}.} #1 \newline}
 
 \begin{document}
 
@@ -68,17 +68,22 @@
     \begin{minipage}{30em}%
         \problemii{考虑由正、负两种离子沿x和y轴方向周期性排布构成如图所示的二维离子 
         固体，假设两个方向上的周期（相邻正、负离子间的间隔）均为a ，若只考 
-        虑边长为2a的正方格子中的正、负离子，试计算其马德隆常数的近似值。}
+        虑边长为2a的正方格子中的正、负离子，试计算其马德隆常数的近似值。} 
+     \begin{center}
+        \includegraphics{picture/1-7.png}
+     \end{center}
         \solutionii{}
-    \end{minipage}
+    \end{minipage} 
 }
+
+
 
 \fbox{
     \begin{minipage}{30em}%
-        \problemi{假设一固体中原子间的相互作用能可表示为:$U(r)=-\dfrac{\alpha}{r^m}+\dfrac{\beta}{r^n}$,试计算:
-        （1）平衡间距 ;\\
-        （2）结合能W（单个原子的）;\\
-        （3）体弹性模量;\\
+        \problemi{假设一固体中原子间的相互作用能可表示为:$U(r)=-\dfrac{\alpha}{r^m}+\dfrac{\beta}{r^n}$,试计算:\newline
+        （1）平衡间距 ;\newline  
+        （2）结合能W（单个原子的）;\newline
+        （3）体弹性模量;\newline
         （4）若取$m=2,n=10,r_0=0.3nm,W=0.4eV $，则$\alpha$和$\beta$的值是多少?}
         \solutioni{}
     \end{minipage}
@@ -197,7 +202,241 @@
 \fbox{
     \begin{minipage}{30em}%
         \problemi{对体心立方和面心立方结构的晶体, 其固体物理学原胞的习惯选取如图 2. 23 所示, 试证明: 对体心立方晶体其原胞三基矢间的夹角为$109^o27'$, 对面心立方晶体其原胞三基矢间的夹角为$60^o$。}
-        \solutioni{体心立方晶体固体物理学原胞相对应的三个基矢以及相应原胞的体积分别为：}
+        \solutioni{体心立方晶体固体物理学原胞相对应的三个基矢以及相应原胞的体积分别为：\[\left\{\begin{array}{l}
+            \vec{a}_{1}=\frac{a}{2}(-\vec{i}+\vec{j}+\vec{k}) \\
+            \vec{a}_{2}=\frac{a}{2}(\vec{i}-\vec{j}+\vec{k}) \quad \text { 和 } \Omega=\vec{a}_{1} \bullet\left(\vec{a}_{2} \times \vec{a}_{3}\right)=\frac{1}{2} a^{3} \\
+            \vec{a}_{3}=\frac{a}{2}(\vec{i}-\vec{j}+\vec{k}) 
+            \end{array}\right.\]  \[\cos \theta=-\frac{1}{3}\] 面心立方结构晶体固体物理学原胞相对应的三个基矢和相应的原胞体积分别为：\[\left\{\begin{array}{l}
+                \vec{a}_{1}=\frac{a}{2}(\vec{j}+\vec{k}) \\
+                \vec{a}_{2}=\frac{a}{2}(\vec{i}+\vec{k}) \quad \text { 和 } \quad \Omega=\vec{a}_{1} \bullet\left(\vec{a}_{2} \times \vec{a}_{3}\right)=\frac{1}{4} a^{3}  \\
+                \vec{a}_{3}=\frac{a}{2}(\vec{i}+\vec{j}) 
+                \end{array}\right.\] \[ \cos \theta=\frac{1}{2}\]}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{若某晶体的基矢为$\vec{a}_1=a\vec{i},\vec{a}_2=a\vec{j},\vec{a}_3=\frac{a}{2}(\vec{i}+\vec{j}+\vec{k})$, 试根据给定的基判断该晶体具有何种晶体结构?}
+        \solutioni{体心立方。}
+    \end{minipage}
+}
+
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{试画出体心立方和面心立方晶格结构的晶体在（100），（110）和（111）晶面上的原子排列。}
+        \solutioni{略}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{对如图所示的三维布喇菲格子，原胞的基矢方向如图所示，试求：\newline 
+        （1）OA 晶列和 CA 晶列的晶向指数；\newline 
+        （2）BCD 晶面和 ABC 晶面的面指数。}
+        \begin{center}
+            \includegraphics{picture/2-15.png}
+        \end{center}
+        \solutioni{（1）OA 晶列$[322]$  CA 晶列$[302]$\newline
+        （2）BCD 晶面$(233)$ ABC 晶面$(32\bar{2})$}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{ 考虑一个面心立方结构的晶体，其晶胞及基矢如图所示，A 是其中一个顶 
+        角原子，B、C 是晶胞上的两个面心原子， 求：\newline（1）AC 晶列的晶向指数；\newline 
+        （2）ABC 晶面的密勒指数。 }
+        \begin{center}
+            \includegraphics{picture/2-16.png}
+        \end{center}
+        \solutioni{（1）AC 晶列的晶向指数$[\bar{1}\bar{1}2]$\newline
+        （2）ABC 晶面的密勒指数$(\bar{1}31)$}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemii{已知三斜晶系的晶体中，三个基矢分别为$\vec{a}_1,\vec{a}_2 \text{和} \vec{a}_3$。现测知该晶体的 
+        某一晶面法线与基矢的夹角依次为$\alpha,\beta \text{和} \gamma$，试求该晶面的面指数。}
+        \solutionii{\[(\dfrac{1}{|\vec{a}_1 \cos \alpha|},\dfrac{1}{|\vec{a}_2 \cos \beta|},\dfrac{1}{|\vec{a}_3 \cos \gamma|})\]}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemii{对二维晶体，试论证二维平面点阵不可能有 5 度旋转对称轴。}
+        \solutionii{略}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemii{石墨烯具有下图所示的正六角网状的结构形式，试问石墨烯的这种平面网 
+        状格子是简单布喇菲格子还是复式格子？为什么？试画出固体物理学原胞和晶 
+        胞。 }
+        \begin{center}
+            \includegraphics{picture/2-19-1.png}
+        \end{center}
+        \solutionii{石墨烯的这种平面网状格子是复式格子，若设石墨烯中相邻碳原子是等价的，会发现沿着A-B原子延伸出去1个单位的晶格平移矢量的地方其实并没有原子存在。也就说相邻的碳原子不等价，因为所处的环境并不相同。}
+        \begin{center}
+            \includegraphics{picture/2-19-2.png}
+        \end{center}
+    \end{minipage}
+}
+
+\section{第三章}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{试思考：从正格子空间到与之对应的傅里叶空间的变换，为什么不能采取通 
+        常的坐标系变换的方式？}
+        \solutioni{晶体具有破缺的平移对称性，因此，对晶体而言，当从真实空间变换到与之对应的傅里叶空间时，其变换应不同于通常的傅里叶变换，或者说，在对晶体进行傅里叶变换时需要考虑晶体平移对称性破缺的事实。}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{试思考：为什么说晶体中物理性质的平移对称性是破缺的？ }
+        \solutioni{略。}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{试思考：如何从正、倒格子不同角度来理解晶体结构的几何特征？}
+        \solutioni{略。}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{试思考：如果$K_{h_1 h_2 h_3}=h_1\vec{b}_1+h_2\vec{b}_2+h_3\vec{b}_3$是任意的倒格矢，则该倒格矢的长度与晶面指数为$(h_1,h_2,h_3)$的晶面族面间距间的关系如何？}
+        \solutioni{\[\begin{gathered}
+            d_{h_{1} h_{2} h_{3}}=\frac{\vec{a}_{1}}{h_{1}} \cdot \vec{e}_{n}=\frac{\vec{a}_{1}}{h_{1}} \cdot \frac{\vec{K}_{h_{1} h_{2} h_{3}}}{\left|\vec{K}_{h_{1} h_{2} h_{3}}\right|}=\frac{\vec{a}_{1}}{h_{1}} \cdot \frac{h_{1} \vec{b}_{1}+h_{2} \vec{b}_{2}+h_{3} \vec{b}_{3}}{\left|\vec{K}_{h_{1} h_{2} h_{3}}\right|} \\
+            d_{h_{1} h_{2} h_{3}}=\frac{2 \pi}{\left|\vec{K}_{h_{1} h_{2} h_{3}}\right|}
+            \end{gathered}\]}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{试证明：简单六角布喇菲格子的倒格子仍为简单六角布喇菲格子，并给出其 
+        倒格子空间的晶格常数。 }
+        \begin{center}
+            \includegraphics{picture/3-5.png}
+        \end{center}
+        \solutioni{六角晶系晶胞示意图, 其中$a=b\ne c ,\alpha=\beta=90^o$和$\gamma=120^o$
+        利用下面公式：\[\left\{\begin{array}{l}
+            \vec{b}_{1}=\frac{2 \pi}{\Omega}\left(\vec{a}_{2} \times \vec{a}_{3}\right) \\
+            \vec{b}_{2}=\frac{2 \pi}{\Omega}\left(\vec{a}_{3} \times \vec{a}_{1}\right)  \\
+            \vec{b}_{3}=\frac{2 \pi}{\Omega}\left(\vec{a}_{1} \times \vec{a}_{2}\right)
+            \end{array}\right.\]可算得结果。（略）}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{试证明：体心立方晶格的倒格子是具有面心立方结构的格子，而面心立方晶 
+        格的倒格子是具有体心立方结构的格子。}
+        \solutioni{例如, 对晶格常数为  的体心立方格子, 根据固体物理学原胞的习惯选取方法,正格子空间的三个基矢在直角坐标系中分别表示为:$$
+        \left\{\begin{array}{l}
+        \overrightarrow{\mathrm{a}}_{1}=\frac{\mathrm{a}}{2}(-\overrightarrow{\mathrm{i}}+\overrightarrow{\mathrm{j}}+\overrightarrow{\mathrm{k}}) \\
+        \overrightarrow{\mathrm{a}}_{2}=\frac{\mathrm{a}}{2}(\overrightarrow{\mathrm{i}}-\overrightarrow{\mathrm{j}}+\overrightarrow{\mathrm{k}}) \\
+        \overrightarrow{\mathrm{a}}_{3}=\frac{\mathrm{a}}{2}(\overrightarrow{\mathrm{i}}+\overrightarrow{\mathrm{j}}-\overrightarrow{\mathrm{k}})
+        \end{array}\right.
+        $$
+        原胞的体积 $\Omega=\overrightarrow{\mathrm{a}}_{1} \cdot\left(\overrightarrow{\mathrm{a}}_{2} \times \overrightarrow{\mathrm{a}}_{3}\right)=\frac{1}{2} \mathrm{a}^{3}$ 。代入到式 (3.8) 中可得到与体心立方正 格子相对应的倒格子空间的基矢为:
+        $$
+        \left\{\begin{array}{l}
+        \vec{b}_{1}=\frac{2 \pi}{a}(\vec{j}+\vec{k}) \\
+        \vec{b}_{2}=\frac{2 \pi}{a}(\vec{i}+\vec{k}) \\
+        \vec{b}_{3}=\frac{2 \pi}{a}(\vec{i}+\vec{j})
+        \end{array}\right.
+        $$根据倒格子空间基矢的特征, 可以看到, 与体心立方正格子相对应的倒格子在倒格子空间中具有面心立方结构的格子特征。
+        同理与面心立方正格子相对应的倒格子在倒格子空间中具有体心立方结构的格子特征（证明略）。}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{试论证二维晶体的倒格子原胞面积和正格子原胞面积间的关系。 }
+        \solutioni{\[\left\{\begin{array}{l}
+            \vec{b}_{1}=\frac{2 \pi}{|\vec{a}_{1} \times \vec{a}_{2}|}(\vec{a}_{2} \times \vec{e}_{3}) \\
+            \vec{b}_{2}=\frac{2 \pi}{|\vec{a}_{1} \times \vec{a}_{2}|}(\vec{e}_{3} \times \vec{a}_{1})
+            \end{array}\right.\]}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{ 试证明正格子空间中一族晶面$(h_1h_2h_3)$和倒格矢$\vec{K}_{h}$正交。}
+        \solutioni{\[
+        \vec{K}_{h_{1} h_{2} h_{3}} \cdot(\frac{\vec{a}_{1}}{h_{1}}-\frac{\vec{a}_{3}}{h_{3}})=0\]
+        \[\vec{K}_{h_{1} h_{2} h_{3}} \cdot(\frac{\vec{a}_{2}}{h_{2}}-\frac{\vec{a}_{3}}{h_{3}})=0
+        \]说明倒格矢$\vec{K}_{h}$与晶面$(h_1h_2h_3)$上的两个非平行的格矢正交。}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{如果基矢$\vec{a},\vec{b},\vec{c}$构成简单正交系，试证明晶面族$(hkl)$的面间距为：$$
+        d_{h k l}=\frac{1}{\sqrt{\left(\frac{h}{a}\right)^{2}+\left(\frac{k}{b}\right)^{2}+\left(\frac{l}{c}\right)^{2}}}
+        $$并说明面指数简单的晶面, 其面密度比较大, 容易解理。}
+        \solutioni{简单正交杀 $\vec{a} \perp \vec{b} \perp \vec{c}$ $ \vec{a}_{1}=a\vec{i}, \vec{a}_{2}=b \vec{j}, \vec{a}_3=c\vec{k}$
+        倒格子基矢 $\vec{b}_{1}=2 \pi \frac{\vec{a}_{2} \times \vec{a}_{3}}{\vec{a}_{1} \cdot (\vec{a}_{2} \times \vec{a}_{3})}, \quad \vec{b}_{2}=2 \pi \frac{\vec{a}_{3} \times \vec{a}_{1}}{\vec{a}_{1} \cdot(\vec{a}_{2} \times \vec{a}_{3})}, \quad \vec{b}_{3}=2 \pi \frac{\vec{a}_{1} \times \vec{a}_{2}}{\vec{a}_{1} \cdot (\vec{a}_{2} \times \vec{a}_{3})}$
+        $$
+        \vec{b}_{1}=\frac{2 \pi}{a} \vec{i}, \quad \vec{b}_{2}=\frac{2 \pi}{b} \vec{j}, \quad \vec{b}_{3}=\frac{2 \pi}{c} \vec{k}
+        $$
+        倒格子矢室 $\vec{G}=h \vec{b}_{1}+k \vec{b}_{2}+l \vec{b}_{3}=h \frac{2 \pi}{a} \vec{i}+k \frac{2 \pi}{b} \vec{j}+l \frac{2 \pi}{c} \vec{k}$ 晶面族  $(hkl)$ 的面间距
+        $$
+        d=\frac{2 \pi}{|\vec{G}|}=1 / \sqrt{(\frac{h}{a})^{2}+(\frac{k}{b})^{2}+(\frac{l}{c})^{2}}
+        $$ 面指数越简单的晶面, 其晶面的间距越大，晶面上格点的密度越大, 这样的晶面越容易解理。}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{对晶格常数为$a$的二维正方格子，试证明相应的倒格子仍然为正方格子并 
+        给出倒格子空间的周期，试画出第一、第二和第三布里渊区。}
+        \solutioni{考虑边长为$a$的二维正方格子, 正格子空间的基矢为$\vec{a}_1=a\vec{i}$和$\vec{a}_2=a\vec{j}$。假设与之对应的倒格子空间的基矢为$\vec{b}_1=b_{11}\vec{i}+b_{12}\vec{j}$和$\vec{b}_2=b_{21}\vec{i}+b_{22}\vec{j}$, 利用正、倒格子基矢间的正交关系:$\vec{a}_i \cdot \vec{b}_j =2 \pi \delta_{ij}$, 则可得到$b_{11}=b_{22}=\dfrac{2 \pi}{a}$和$b_{12}=b_{21}=0$ , 因此, 与边长为$a$的二维正方格子相对应的倒格子的基矢为\[\vec{b}_1=\dfrac{2 \pi}{a}\vec{i} \text{和} \vec{b}_2=\dfrac{2 \pi}{a}\vec{j}\]
+        可见, 与边长为  的二维正方格子相对应的倒格子仍为正方格子。}
+        \begin{center}
+            \includegraphics{picture/3-10 .png}
+        \end{center}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{对晶格常数为$a$和$b$的二维矩形格子，试证明相应的倒格子仍然为二维矩形 
+        格子并给出倒格子空间的周期，试画出第一布里渊区。}
+        \solutioni{同上题。（略）}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{试问为什么面心立方晶体的第一布里渊区不是一个正八面体而是一个截角 
+        的八面体？}
+        \begin{center}
+            \includegraphics{picture/3-12.png}
+        \end{center}
+        \solutioni{对具有体心立方结构的倒格子, 每个倒格点同围有8个近邻倒格点。若选取立方体中心的倒格点作为原点$\Gamma$, 则在如图所示的直角坐标系中, 这8个近 邻倒格点的倒格矢分别为:
+        \[\begin{aligned}
+            &\frac{2 \pi}{a}(1,1,1), \frac{2 \pi}{a}(1,1, \overline{1}), \frac{2 \pi}{a}(1, \overline{1}, 1), \frac{2 \pi}{a}(\overline{1}, 1,1), \\
+            &\frac{2 \pi}{a}(\overline{1}, \overline{1}, 1), \frac{2 \pi}{a}(\overline{1}, 1, \overline{1}), \frac{2 \pi}{a}(1, \overline{1}, \overline{1}), \frac{2 \pi}{a}(\overline{1}, \overline{1}, \overline{1}),
+            \end{aligned}\]这 8 个倒格矢的中垂直面围成一个正八面体。稍加计算会发现, 这样一个正八面 体的体积会大于相应倒格子空间原胞的体积, 说明这样的正八面体不是面心立方 晶格的第一布里淋区。究其原因是, 原点$\Gamma$周围有六个次近邻倒格点, 这 6 个次近邻倒格点的倒格矢分别为:
+            \[\frac{2 \pi}{a}(\pm 2,0,0), \frac{2 \pi}{a}(0, \pm 2,0), \frac{2 \pi}{a}(0,0, \pm 2)\]这六个倒格矢的中垂面截掉了正八面体的六个顶角, 形成如图  所示的裁角八面体, 变成了十四面体, 这样一个截角八面体（或者说十四面体）就是面心立方晶格的第一布里渊区。}
+    \end{minipage}
+}
+
+\section{第四章}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{}
+        \solutioni{}
     \end{minipage}
 }
 
@@ -208,5 +447,52 @@
     \end{minipage}
 }
 
+\section{第五章}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{}
+        \solutioni{}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{}
+        \solutioni{}
+    \end{minipage}
+}
+
+\section{第六章}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{}
+        \solutioni{}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{}
+        \solutioni{}
+    \end{minipage}
+}
+
+\section{第七章}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{}
+        \solutioni{}
+    \end{minipage}
+}
+
+\fbox{
+    \begin{minipage}{30em}%
+        \problemi{}
+        \solutioni{}
+    \end{minipage}
+}
 \end{document}
    
