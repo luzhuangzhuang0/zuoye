@@ -10,22 +10,29 @@
 \newcommand{\solutioni}[1]{\color{red}\textbf{解答\arabic{problemname}.} #1 \newline}
 \newcommand{\problemii}[1]{\stepcounter{problemname}\color{black}\textbf{题目\arabic{problemname}. } #1 \newline}
 \newcommand{\solutionii}[1]{\color{blue}\textbf{解答\arabic{problemname}.} #1 \newline}
-\NewDocumentCommand\proi{mO{}mO{}}{\fbox{
-    \begin{minipage}{30em}%
+\NewDocumentCommand\proi{mO{}mO{}}{
+ \begin{center}
+\fbox{
+    \begin{minipage}{35em}%
         \problemi{#1}
         #2 
         \solutioni{#3}
         #4
     \end{minipage}
-}}
-\NewDocumentCommand\proii{mO{}mO{}}{\fbox{
-    \begin{minipage}{30em}%
+}
+\end{center}}
+\NewDocumentCommand\proii{mO{}mO{}}{
+    \begin{center}
+\fbox{
+    \begin{minipage}{35em}%
         \problemii{#1}
          #2 
         \solutionii{#3}
         #4
     \end{minipage}
-}}
+}
+\end{center}
+}
 
 %正文开始
 
@@ -60,7 +67,7 @@
      
 \proi{假设一固体中原子间的相互作用能可表示为:$U(r)=-\dfrac{\alpha}{r^m}+\dfrac{\beta}{r^n}$,试计算:\newline
         (1)平衡间距 ;\newline  
-        (2)结合能W(单个原子的);\newline
+        (2)结合能$W$(单个原子的);\newline
         (3)体弹性模量;\newline
         (4)若取$m=2,n=10,r_0=0.3nm,W=0.4eV $，则$\alpha$和$\beta$的值是
         多少?}{}
@@ -298,6 +305,9 @@
 \proi{}{}
 
 \proi{}{}
+
+
+
 
 
 
