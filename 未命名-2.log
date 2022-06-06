@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.8)  6 JUN 2022 22:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.8)  6 JUN 2022 23:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -426,6 +426,17 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisrulewidth=\dimen169
 ) (c:/texlive/2022/texmf-dist/tex/latex/draftwatermark/draftwatermark.sty
 Package: draftwatermark 2020/12/08 3.0 Put a gray textual watermark on document pages
+) (c:/texlive/2022/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip58
+\f@nch@O@elh=\skip59
+\f@nch@O@erh=\skip60
+\f@nch@O@olh=\skip61
+\f@nch@O@orh=\skip62
+\f@nch@O@elf=\skip63
+\f@nch@O@erf=\skip64
+\f@nch@O@olf=\skip65
+\f@nch@O@orf=\skip66
 )
 \c@problemname=\count297
  (c:/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
@@ -437,88 +448,88 @@ File: UTF8.chr 2021/10/16 4.8.5
 ) (./Êú™ÂëΩÂêç-2.aux)
 \openout1 = `Êú™ÂëΩÂêç-2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
  (c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count298
@@ -538,7 +549,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (c:/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 47.
+Package hyperref Info: Link coloring OFF on input line 54.
  (c:/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (c:/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
@@ -548,41 +559,41 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count304
 )
-LaTeX Info: Redefining \ref on input line 47.
-LaTeX Info: Redefining \pageref on input line 47.
-LaTeX Info: Redefining \nameref on input line 47.
+LaTeX Info: Redefining \ref on input line 54.
+LaTeX Info: Redefining \pageref on input line 54.
+LaTeX Info: Redefining \nameref on input line 54.
  (./Êú™ÂëΩÂêç-2.out) (./Êú™ÂëΩÂêç-2.out)
 \@outlinefile=\write3
 \openout3 = `Êú™ÂëΩÂêç-2.out'.
 
-LaTeX Font Info:    Trying to load font information for C70+rm on input line 50.
+LaTeX Font Info:    Trying to load font information for C70+rm on input line 57.
  (c:/texlive/2022/texmf-dist/tex/latex/ctex/fd/c70rm.fd
 File: c70rm.fd 2021/12/12 v2.5.8 Chinese font definition (CTEX)
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 50.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 57.
  (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 50.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 57.
  (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 50.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 57.
  (c:/texlive/2022/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (quanjiao) on input line 51.
+Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (quanjiao) on input line 58.
  (./Êú™ÂëΩÂêç-2.toc)
 \tf@toc=\write4
 \openout4 = `Êú™ÂëΩÂêç-2.toc'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--58
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
 
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 58--58
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 65--65
  [] 
  []
 
@@ -591,42 +602,12 @@ File: ctex-zhmap-windows.tex 2021/12/12 v2.5.8 Windows font map loader for pdfTe
 {c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{UGBK.sfd}{Unicode.sfd}) [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 61--61
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
 
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 61--61
- [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 63--63
-
- []
-
-
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 63--63
- [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 65--65
-
- []
-
-
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 65--65
- [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 67--67
-
- []
-
-
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 67--67
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 68--68
  [] 
  []
 
@@ -636,57 +617,79 @@ Underfull \hbox (badness 10000) in paragraph at lines 70--70
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 70--70
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 70--70
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+
+ []
+
+
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 72--72
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+
+ []
+
+
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 74--74
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+
+ []
+
+
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 77--77
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 
  []
 
 <picture/1-7.png, id=134, 215.00325pt x 146.34676pt>
 File: picture/1-7.png Graphic file (type png)
 <use picture/1-7.png>
-Package pdftex.def Info: picture/1-7.png  used on input line 75.
+Package pdftex.def Info: picture/1-7.png  used on input line 82.
 (pdftex.def)             Requested size: 215.00272pt x 146.34639pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
-
- []
-
-
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 75--75
- [] 
- []
-
-[2]
 Underfull \hbox (badness 10000) in paragraph at lines 82--82
 
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 82--82
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 82--82
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--86
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2]
+Underfull \hbox (badness 1189) in paragraph at lines 89--89
+[]\C70/rm/bx/n/12/98 ò \C70/rm/bx/n/12/76 Ó\OT1/cmr/bx/n/12 8.  \C70/rm/m/n/12/50 G \C70/rm/m/n/12/8b æ \C70/rm/m/n/12/4e ^^@ \C70/rm/m/n/12/56 ˙ \C70/rm/m/n/12/4f S \C70/rm/m/n/12/4e - \C70/rm/m/n/12/53 ü \C70/rm/m/n/12/5b P \C70/rm/m/n/12/95 Ù \C70/rm/m/n/12/76 Ñ ¯ \C70/rm/m/n/12/4e í \C70/rm/m/n/12/4f \ \C70/rm/m/n/12/75 ( \C70/rm/m/n/12/80 ˝ \C70/rm/m/n/12/53 Ô \C70/rm/m/n/12/88 h \C70/rm/m/n/12/79 : \C70/rm/m/n/12/4e :\OT1/cmr/m/n/12 :$\OML/cmm/m/it/12 U\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 r\OT1/cmr/m/n/12 ) =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 86--86
- [] 
- []
-
-[3 <./picture/1-7.png (PNG copy)>]
-Underfull \hbox (badness 10000) in paragraph at lines 90--90
-
- []
-
-
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 90--90
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 89--89
  [] 
  []
 
@@ -696,57 +699,71 @@ Underfull \hbox (badness 10000) in paragraph at lines 93--93
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 93--93
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 93--93
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--101
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3 <./picture/1-7.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 97--97
 
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 101--101
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 97--97
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--104
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
 
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 104--104
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 100--100
  [] 
  []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+
+ []
+
+
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 108--108
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+
+ []
+
+
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 111--111
+ [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 107--107
-
- []
-
-
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 107--107
- [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 110--110
-
- []
-
-
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 110--110
- [] 
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 114--114
 
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 114--114
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 114--114
  [] 
  []
 
@@ -756,142 +773,160 @@ Underfull \hbox (badness 10000) in paragraph at lines 117--117
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 117--117
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 117--117
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--120
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
 
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 120--120
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 121--121
  [] 
  []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
+
+ []
+
+
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 124--124
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--127
+
+ []
+
+
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 127--127
+ [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 123--123
-
- []
-
-
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 123--123
- [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 126--126
-
- []
-
-
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 126--126
- [] 
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 130--130
 
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 130--130
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 130--130
  [] 
  []
 
-[6]
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
+
+ []
+
+
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 133--133
+ [] 
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 137--137
 
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 137--137
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 137--137
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
 
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 148--148
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 144--144
  [] 
  []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
+
+ []
+
+
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 155--155
+ [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 151--151
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
 
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 151--151
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 158--158
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--154
+Underfull \hbox (badness 6268) in paragraph at lines 161--161
 []\C70/rm/bx/n/12/98 ò \C70/rm/bx/n/12/76 Ó\OT1/cmr/bx/n/12 14.  \C70/rm/m/n/12/8b ’ \C70/rm/m/n/12/75 ; \C70/rm/m/n/12/51 ˙ \C70/rm/m/n/12/4f S \C70/rm/m/n/12/5f √ \C70/rm/m/n/12/7a À \C70/rm/m/n/12/65 π \C70/rm/m/n/12/54 å \C70/rm/m/n/12/97 b \C70/rm/m/n/12/5f √ \C70/rm/m/n/12/7a À \C70/rm/m/n/12/65 π \C70/rm/m/n/12/66 v \C70/rm/m/n/12/68 < \C70/rm/m/n/12/7e ” \C70/rm/m/n/12/67 Ñ \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/66 v \C70/rm/m/n/12/4f S
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--154
-
- []
-
-
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 154--154
- [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 161--161
-
- []
-
-<picture/2-15.png, id=241, 226.446pt x 162.6075pt>
-File: picture/2-15.png Graphic file (type png)
-<use picture/2-15.png>
-Package pdftex.def Info: picture/2-15.png  used on input line 161.
-(pdftex.def)             Requested size: 226.44543pt x 162.6071pt.
-
 Underfull \hbox (badness 10000) in paragraph at lines 161--161
 
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 161--161
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 161--161
  [] 
  []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [8]
 Underfull \hbox (badness 10000) in paragraph at lines 168--168
 
  []
 
-<picture/2-16.png, id=247, 229.45724pt x 184.2885pt>
-File: picture/2-16.png Graphic file (type png)
-<use picture/2-16.png>
-Package pdftex.def Info: picture/2-16.png  used on input line 168.
-(pdftex.def)             Requested size: 229.45667pt x 184.28804pt.
+<picture/2-15.png, id=242, 226.446pt x 162.6075pt>
+File: picture/2-15.png Graphic file (type png)
+<use picture/2-15.png>
+Package pdftex.def Info: picture/2-15.png  used on input line 168.
+(pdftex.def)             Requested size: 226.44543pt x 162.6071pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 168--168
 
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 168--168
- [] 
- []
-
-[9 <./picture/2-15.png (PNG copy)>]
-Underfull \hbox (badness 10000) in paragraph at lines 172--172
-
- []
-
-
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 172--172
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 168--168
  [] 
  []
 
@@ -900,218 +935,291 @@ Underfull \hbox (badness 10000) in paragraph at lines 175--175
 
  []
 
+<picture/2-16.png, id=243, 229.45724pt x 184.2885pt>
+File: picture/2-16.png Graphic file (type png)
+<use picture/2-16.png>
+Package pdftex.def Info: picture/2-16.png  used on input line 175.
+(pdftex.def)             Requested size: 229.45667pt x 184.28804pt.
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 175--175
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+
+ []
+
+
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 175--175
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--181
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[9 <./picture/2-15.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
 
  []
 
-<picture/2-19-1.png, id=252, 249.93375pt x 211.992pt>
+
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 179--179
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
+
+ []
+
+
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 182--182
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--188
+
+ []
+
+<picture/2-19-1.png, id=248, 249.93375pt x 211.992pt>
 File: picture/2-19-1.png Graphic file (type png)
 <use picture/2-19-1.png>
-Package pdftex.def Info: picture/2-19-1.png  used on input line 181.
+Package pdftex.def Info: picture/2-19-1.png  used on input line 188.
 (pdftex.def)             Requested size: 249.93314pt x 211.99147pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--181
+Underfull \hbox (badness 10000) in paragraph at lines 188--188
 
  []
 
-<picture/2-19-2.png, id=253, 260.172pt x 264.38776pt>
+<picture/2-19-2.png, id=249, 260.172pt x 264.38776pt>
 File: picture/2-19-2.png Graphic file (type png)
 <use picture/2-19-2.png>
-Package pdftex.def Info: picture/2-19-2.png  used on input line 181.
+Package pdftex.def Info: picture/2-19-2.png  used on input line 188.
 (pdftex.def)             Requested size: 130.08566pt x 132.19354pt.
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 181--181
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 188--188
  [] 
  []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [10 <./picture/2-16.png (PNG copy)>]
-Underfull \hbox (badness 10000) in paragraph at lines 189--189
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
 
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 189--189
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 196--196
  [] 
  []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [11 <./picture/2-19-1.png (PNG copy)> <./picture/2-19-2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 192--192
+Underfull \hbox (badness 10000) in paragraph at lines 199--199
 
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 192--192
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 199--199
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 195--195
+Underfull \hbox (badness 10000) in paragraph at lines 202--202
 
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 195--195
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 202--202
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 201--201
+Underfull \hbox (badness 10000) in paragraph at lines 208--208
 
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 201--201
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 208--208
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 218--218
+Underfull \hbox (badness 10000) in paragraph at lines 225--225
 
  []
 
-<picture/3-5.png, id=265, 184.2885pt x 248.72925pt>
+<picture/3-5.png, id=261, 184.2885pt x 248.72925pt>
 File: picture/3-5.png Graphic file (type png)
 <use picture/3-5.png>
-Package pdftex.def Info: picture/3-5.png  used on input line 218.
+Package pdftex.def Info: picture/3-5.png  used on input line 225.
 (pdftex.def)             Requested size: 184.28804pt x 248.72864pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 218--218
+Underfull \hbox (badness 10000) in paragraph at lines 225--225
 
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 218--218
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 225--225
  [] 
  []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 239--239
+Underfull \hbox (badness 10000) in paragraph at lines 246--246
 
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 239--239
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 246--246
  [] 
  []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [13 <./picture/3-5.png (PNG copy)>]
-Underfull \hbox (badness 10000) in paragraph at lines 245--245
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
 
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 245--245
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 252--252
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 250--250
+Underfull \hbox (badness 10000) in paragraph at lines 257--257
 
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 250--250
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 257--257
  [] 
  []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 263--263
-
- []
-
-
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 263--263
- [] 
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 270--270
 
  []
 
-<picture/3-10 .png, id=284, 324.558pt x 252.6165pt>
+
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 270--270
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--277
+
+ []
+
+<picture/3-10 .png, id=280, 324.558pt x 252.6165pt>
 File: picture/3-10 .png Graphic file (type png)
 <use picture/3-10 .png>
-Package pdftex.def Info: picture/3-10 .png  used on input line 270.
+Package pdftex.def Info: picture/3-10 .png  used on input line 277.
 (pdftex.def)             Requested size: 324.5572pt x 252.61586pt.
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 270--270
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 277--277
  [] 
  []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [15]
-Underfull \hbox (badness 10000) in paragraph at lines 275--275
+Underfull \hbox (badness 10000) in paragraph at lines 282--282
 
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 275--275
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 282--282
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
 
  []
 
-<picture/3-12.png, id=289, 163.812pt x 155.98276pt>
+<picture/3-12.png, id=285, 163.812pt x 155.98276pt>
 File: picture/3-12.png Graphic file (type png)
 <use picture/3-12.png>
-Package pdftex.def Info: picture/3-12.png  used on input line 287.
+Package pdftex.def Info: picture/3-12.png  used on input line 294.
 (pdftex.def)             Requested size: 163.81158pt x 155.98238pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-
- []
-
-
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 287--287
- [] 
- []
-
-[16 <./picture/3-10 .png (PNG copy)>]
-Underfull \hbox (badness 10000) in paragraph at lines 292--292
-
- []
-
-
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 292--292
- [] 
- []
-
-[17 <./picture/3-12.png (PNG copy)>]
 Underfull \hbox (badness 10000) in paragraph at lines 294--294
 
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 294--294
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 294--294
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 296--296
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[16 <./picture/3-10 .png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
 
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 296--296
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 299--299
  [] 
  []
 
 
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[17 <./picture/3-12.png (PNG copy)>]
 Underfull \hbox (badness 10000) in paragraph at lines 301--301
 
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 301--301
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 301--301
  [] 
  []
 
@@ -1121,17 +1229,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 303--303
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 303--303
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 303--303
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 305--305
+Underfull \hbox (badness 10000) in paragraph at lines 308--308
 
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 305--305
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 308--308
  [] 
  []
 
@@ -1141,37 +1249,44 @@ Underfull \hbox (badness 10000) in paragraph at lines 310--310
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 310--310
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 310--310
  [] 
  []
 
-[18]
+
 Underfull \hbox (badness 10000) in paragraph at lines 312--312
 
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 312--312
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 312--312
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 314--314
+Underfull \hbox (badness 10000) in paragraph at lines 317--317
 
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 314--314
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 317--317
  [] 
  []
 
 
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[18]
 Underfull \hbox (badness 10000) in paragraph at lines 319--319
 
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 319--319
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 319--319
  [] 
  []
 
@@ -1181,37 +1296,64 @@ Underfull \hbox (badness 10000) in paragraph at lines 321--321
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 321--321
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 321--321
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 323--323
+Underfull \hbox (badness 10000) in paragraph at lines 326--326
 
  []
 
 
-Overfull \hbox (12.37921pt too wide) in paragraph at lines 323--323
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 326--326
  [] 
  []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--328
+
+ []
+
+
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 328--328
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--330
+
+ []
+
+
+Overfull \hbox (0.62933pt too wide) in paragraph at lines 330--330
+ [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [19] (./Êú™ÂëΩÂêç-2.aux)
 Package rerunfilecheck Info: File `Êú™ÂëΩÂêç-2.out' has not changed.
 (rerunfilecheck)             Checksum: 99C55CA5F4F08DB3B0DD86808F08249F;469.
  ) 
 Here is how much of TeX's memory you used:
- 15684 strings out of 478268
- 262944 string characters out of 5850346
- 530568 words of memory out of 5000000
- 33360 multiletter control sequences out of 15000+600000
- 515151 words of font info for 196 fonts, out of 8000000 for 9000
+ 15839 strings out of 478268
+ 264974 string characters out of 5850346
+ 537186 words of memory out of 5000000
+ 33522 multiletter control sequences out of 15000+600000
+ 513449 words of font info for 190 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,13n,78p,786b,431s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on Êú™ÂëΩÂêç-2.pdf (19 pages, 1863918 bytes).
+ 75i,13n,78p,1193b,431s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on Êú™ÂëΩÂêç-2.pdf (19 pages, 1840691 bytes).
 PDF statistics:
- 641 PDF objects out of 1000 (max. 8388607)
- 419 compressed objects within 5 object streams
+ 616 PDF objects out of 1000 (max. 8388607)
+ 401 compressed objects within 5 object streams
  30 named destinations out of 1000 (max. 500000)
  393 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -8,6 +8,13 @@
 %\SetWatermarkText{\includegraphics{fig/texlion.png}}         % 设置水印logo
 \SetWatermarkLightness{0.92}             % 设置水印透明度 0-1
 \SetWatermarkScale{0.6}                   % 设置水印大小 0-1  
+%页眉页脚
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\color{blue}by ZhuangZhuang Lu}
+\fancyhead[R]{\color[rgb]{0,0,1}\textrm{\thepage}}
+\fancyfoot[C]{\color{green}理科的脸都被物理丢尽了,尤其是那个傻逼物理实验.}
 %
 \title{\textbf{固体物理(一)作业}}
 \author{陆壮壮 U201810189}
@@ -21,7 +28,7 @@
 \NewDocumentCommand\proi{mO{}mO{}}{
  \begin{center}
 \fbox{
-    \begin{minipage}{33em}%
+    \begin{minipage}{32em}%
         \problemi{#1}
         #2 
         \solutioni{#3}
@@ -32,7 +39,7 @@
 \NewDocumentCommand\proii{mO{}mO{}}{
     \begin{center}
 \fbox{
-    \begin{minipage}{33em}%
+    \begin{minipage}{32em}%
         \problemii{#1}
          #2 
         \solutionii{#3}
@@ -48,9 +55,9 @@
 
 \maketitle
 \begin{center}
-注:黑色字体为题目,红色为其解答；作业之外习题,蓝色为其解答.
+{\color{red}注:黑色字体为题目,红色为其解答；作业之外习题,蓝色为其解答.}
 \end{center}
-\tableofcontents
+{\color{blue}\tableofcontents}
 
 \section{第一章}
 
@@ -283,7 +290,7 @@
             &\frac{2 \pi}{a}(1,1,1), \frac{2 \pi}{a}(1,1, \overline{1}), \frac{2 \pi}{a}(1, \overline{1}, 1), \frac{2 \pi}{a}(\overline{1}, 1,1), \\
             &\frac{2 \pi}{a}(\overline{1}, \overline{1}, 1), \frac{2 \pi}{a}(\overline{1}, 1, \overline{1}), \frac{2 \pi}{a}(1, \overline{1}, \overline{1}), \frac{2 \pi}{a}(\overline{1}, \overline{1}, \overline{1}),
             \end{aligned}\]这 8 个倒格矢的中垂直面围成一个正八面体.稍加计算会发现, 这样一个正八面 体的体积会大于相应倒格子空间原胞的体积, 说明这样的正八面体不是面心立方 晶格的第一布里淋区.究其原因是, 原点$\Gamma$周围有六个次近邻倒格点, 这 6 个次近邻倒格点的倒格矢分别为:
-            \[\frac{2 \pi}{a}(\pm 2,0,0), \frac{2 \pi}{a}(0, \pm 2,0), \frac{2 \pi}{a}(0,0, \pm 2)\]这六个倒格矢的中垂面截掉了正八面体的六个顶角, 形成如图  所示的裁角八面体, 变成了十四面体, 这样一个截角八面体(（)或者说十四面体)就是面心立方晶格的第一布里渊区.}
+            \[\frac{2 \pi}{a}(\pm 2,0,0), \frac{2 \pi}{a}(0, \pm 2,0), \frac{2 \pi}{a}(0,0, \pm 2)\]这六个倒格矢的中垂面截掉了正八面体的六个顶角, 形成如图所示的截角八面体, 变成了十四面体, 这样一个截角八面体(或者说十四面体)就是面心立方晶格的第一布里渊区.}
 
 
 \section{第四章}
